@@ -97,7 +97,7 @@ python examples/query.py ./data/indexes/资治通鉴_index_1.json \
     --show-sources
 ```
 
-### 思路2
+### 思路2 目录导航（category-navigate）
 
 ```bash
 cd category-navigate/examples
